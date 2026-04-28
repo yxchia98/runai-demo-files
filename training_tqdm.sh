@@ -1,6 +1,6 @@
 #!/bin/bash
 
-EPOCHS=5
+EPOCHS=100
 STEPS=50
 CKPT_DIR="./checkpoints"
 
